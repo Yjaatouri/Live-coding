@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 10px;
+    min-width: 375px;
+}
+
+.cards {
+    display: flex;
+    background-color: rgb(151, 146, 146);
+    width: 75%;
+    justify-content: space-between;
+}
+
+.cards2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Scards1 {
+    display: grid;
+    background-color: rgb(138, 130, 130);
+    justify-content: space-between;
+}
+
+.danile {
+    background-color: purple;
+    justify-content: space-between;
+}
+
+.jonathan {
+    background-color: rgb(54, 75, 94);
+    justify-content: space-between;
+}
+
+.Scards2 {
+    background-color: wheat;
+    justify-content: space-between;
+
+}
+
+.jannet {
+    background-color: white;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.patrick {
+    background-color: rgb(32, 11, 62);
+    justify-content: space-between;
+}
+
+.kira {
+    width: 25%;
+    background-color: white;
+
+}
+
+.profile {
+    display: grid;
+
+}
